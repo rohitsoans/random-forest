@@ -1,1 +1,1 @@
-# random forest used to classify social network advertisements to see whether they are effective
+# random forest# Regression-Classification Regression to predict if the customer makes a purchase based on his or her age and income
